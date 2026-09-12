@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 40vh;
+    background-color: rgb(175, 200, 222);
+}
+
+.teste{
+    color: blueviolet;
+}
